@@ -18,7 +18,7 @@ The Images I used in this project are free and are free and open sore to use for
  4. Bootstrap-icons
  5. JQuery
  6. Node Module
- 7. Aont Awesome
+ 7. Font Awesome
  8. Google Font
 
 ## Color 
